@@ -1,1 +1,1 @@
-# Seralization-and-CRUD-Django-Rest-FrameWork
+# Serialization-and-CRUD-Django-Rest-FrameWork
